@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pwallk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-哈哈哈哈哈哈哈哈哈哈或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或！！！！
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b>Kang</b>.🎮🚲🤗😋🚭
+    <br>I am a Java development engineer, currently working in Nanjing.<br>
+  </samp>
+</p>
