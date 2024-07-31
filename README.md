@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b>Kang</b>.🎮🚲🤗😋🚭
-    <br>I am a Java development engineer, currently working in Nanjing.<br>
+    <span font-size="25px">Hello there! I'm <b>Kang</b>.🎮🚲🤗😋🚭</span>
+    <br font-size="20px">I am a Java development engineer, currently working in Nanjing.<br>
   </samp>
 </p>
